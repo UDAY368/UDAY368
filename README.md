@@ -15,10 +15,7 @@ in the field of Artificial Intelligence and collect the useful insights to creat
 
 - 🔭 I’m  currently doing Post Graduate in **Artificial Intelligence and Machine Learning** at NIT Warangal offered by
 Edureka Platform. 
-  
-- 🤔 I’m looking for roles as a Data Scientist, Data Analyst, Machine Learning Engineer,Computer Vision 
-  Engineer and ready to join immediately.
-  
+- 🤔 I’m looking for roles as a Data Scientist, Data Analyst, ML Engineer,Computer Vision Engineer and ready to join immediately.
 - 📫 Open to collabarate any Data Science and ML,CV,NLP projects
 - 😄 [My Resume](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 
