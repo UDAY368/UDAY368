@@ -60,7 +60,7 @@ Edureka Platform.
 
 ### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=UDAY368.)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=UDAY368.UDAY368)
 
 ### Github Stats
 
