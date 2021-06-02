@@ -35,7 +35,7 @@ Edureka Platform.
          [![Nodejs Badge](https://img.shields.io/badge/-Postman-acfde7?style=for-the-badge&labelColor=black&logo=postman&logoColor=acfde7)](#) 
          [![Nodejs Badge](https://img.shields.io/badge/-Jupyter-acfde7?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=acfde7)](#)
 
-### Tutorials
+### Tutorials Made by Me
 [<img align="left" alt="Visual Studio Code" width="100px" src="https://github.com/UDAY368/UDAY368/blob/main/images/data%20science.png" />][DataScience]
 
 [<img align="left" alt="React" width="100px" src="https://github.com/UDAY368/UDAY368/blob/main/images/machine%20learning.png" />][MachineLearing]
