@@ -23,9 +23,16 @@ Edureka Platform.
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Mysql-F0DB4F?style=for-the-badge&labelColor=black&logo=mysql&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Tableau-007acc?style=for-the-badge&labelColor=black&logo=tableau&logoColor=007acc)](#) [![GraphQL Badge](https://img.shields.io/badge/-flask-e535ab?style=for-the-badge&labelColor=black&logo=flask&logoColor=e535ab)](#) 
- [![Nodejs Badge](https://img.shields.io/badge/-Tensorflow-61fba8?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=61fba8)](#) [![Nodejs Badge](https://img.shields.io/badge/-keras-61b4fb?style=for-the-badge&labelColor=black&logo=keras&logoColor=61b4fb)](#) [![Nodejs Badge](https://img.shields.io/badge/-pytorch-b4fb61?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=b4fb61)](#) [![Nodejs Badge](https://img.shields.io/badge/-AWS-fba861?style=for-the-badge&labelColor=black&logo=amazon&logoColor=fba861)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-mongodb-fdacd7?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=fdacd7)](#) [![Nodejs Badge](https://img.shields.io/badge/-Postman-acfde7?style=for-the-badge&labelColor=black&logo=postman&logoColor=acfde7)](#) [![Nodejs Badge](https://img.shields.io/badge/-Jupyter-acfde7?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=acfde7)](#)
+[![React Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#)    [![Javascript Badge](https://img.shields.io/badge/-Mysql-F0DB4F?style=for-the-badge&labelColor=black&logo=mysql&logoColor=F0DB4F)](#) 
+        [![Typescript Badge](https://img.shields.io/badge/-Tableau-007acc?style=for-the-badge&labelColor=black&logo=tableau&logoColor=007acc)](#) 
+         [![GraphQL Badge](https://img.shields.io/badge/-flask-e535ab?style=for-the-badge&labelColor=black&logo=flask&logoColor=e535ab)](#) 
+         [![Nodejs Badge](https://img.shields.io/badge/-Tensorflow-61fba8?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=61fba8)](#) 
+         [![Nodejs Badge](https://img.shields.io/badge/-keras-61b4fb?style=for-the-badge&labelColor=black&logo=keras&logoColor=61b4fb)](#) 
+         [![Nodejs Badge](https://img.shields.io/badge/-pytorch-b4fb61?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=b4fb61)](#) 
+        [![Nodejs Badge](https://img.shields.io/badge/-AWS-fba861?style=for-the-badge&labelColor=black&logo=amazon&logoColor=fba861)](#)
+        [![Nodejs Badge](https://img.shields.io/badge/-mongodb-fdacd7?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=fdacd7)](#) 
+         [![Nodejs Badge](https://img.shields.io/badge/-Postman-acfde7?style=for-the-badge&labelColor=black&logo=postman&logoColor=acfde7)](#) 
+         [![Nodejs Badge](https://img.shields.io/badge/-Jupyter-acfde7?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=acfde7)](#)
 
 ### Tutorials
 
