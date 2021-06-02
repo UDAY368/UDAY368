@@ -36,17 +36,17 @@ Edureka Platform.
          [![Nodejs Badge](https://img.shields.io/badge/-Jupyter-acfde7?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=acfde7)](#)
 
 ### Tutorials Made by Me
-[<img align="left" alt="Visual Studio Code" width="100px" src="https://github.com/UDAY368/UDAY368/blob/main/images/data%20science.png" />][DataScience]
+[<img align="left" alt="Visual Studio Code" width="70px" src="https://github.com/UDAY368/UDAY368/blob/main/images/data%20science.png" />][DataScience]
 
-[<img align="left" alt="React" width="100px" src="https://github.com/UDAY368/UDAY368/blob/main/images/machine%20learning.png" />][MachineLearing]
+[<img align="left" alt="React" width="70px" src="https://github.com/UDAY368/UDAY368/blob/main/images/machine%20learning.png" />][MachineLearing]
 
-[<img align="left" alt="HTML5" width="100px" src="https://github.com/UDAY368/UDAY368/blob/main/images/computer%20vision.png" />][ComputerVision]
+[<img align="left" alt="HTML5" width="70px" src="https://github.com/UDAY368/UDAY368/blob/main/images/computer%20vision.png" />][ComputerVision]
 
-[<img align="left" alt="JavaScript" width="100px" src="https://github.com/UDAY368/UDAY368/blob/main/images/nlp.png" />][NLP]
+[<img align="left" alt="JavaScript" width="70px" src="https://github.com/UDAY368/UDAY368/blob/main/images/nlp.png" />][NLP]
 
-[<img align="left" alt="Visual Studio Code" width="100px" src="https://github.com/UDAY368/UDAY368/blob/main/images/Data%20analytics.png" />][DataAnalytics]
+[<img align="left" alt="Visual Studio Code" width="70px" src="https://github.com/UDAY368/UDAY368/blob/main/images/Data%20analytics.png" />][DataAnalytics]
 
-[<img align="left" alt="Visual Studio Code" width="100px" src="https://github.com/UDAY368/UDAY368/blob/main/images/aws.png" />][AWS]
+[<img align="left" alt="Visual Studio Code" width="70px" src="https://github.com/UDAY368/UDAY368/blob/main/images/aws.png" />][AWS]
 
 <br />
 <br />
