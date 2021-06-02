@@ -45,11 +45,14 @@ Edureka Platform.
 [<img align="left" alt="JavaScript" width="100px" src="https://github.com/UDAY368/UDAY368/blob/main/images/nlp.png" />][NLP]
 
 [<img align="left" alt="Visual Studio Code" width="100px" src="https://github.com/UDAY368/UDAY368/blob/main/images/Data%20analytics.png" />][DataAnalytics]
+<br />
+<br />
+<br />
+<br />
 
-<br />
-<br />
-<br />
+### Profile Visits 
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=UDAY368.UDAY368)
 
 
 
