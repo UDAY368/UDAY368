@@ -45,6 +45,9 @@ Edureka Platform.
 [<img align="left" alt="JavaScript" width="100px" src="https://github.com/UDAY368/UDAY368/blob/main/images/nlp.png" />][NLP]
 
 [<img align="left" alt="Visual Studio Code" width="100px" src="https://github.com/UDAY368/UDAY368/blob/main/images/Data%20analytics.png" />][DataAnalytics]
+
+[<img align="left" alt="Visual Studio Code" width="100px" src="https://github.com/UDAY368/UDAY368/blob/main/images/aws.png" />][AWS]
+
 <br />
 <br />
 <br />
@@ -67,3 +70,4 @@ Edureka Platform.
 [NLP]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
 [DataAnalytics]: https://www.youtube.com/watch?v=D-LHKvmX37E
 [DataScience]: https://www.youtube.com/watch?v=D-LHKvmX37E
+[AWS]: https://www.youtube.com/watch?v=D-LHKvmX37E
