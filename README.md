@@ -9,7 +9,7 @@ in the field of Artificial Intelligence and collect the useful insights to creat
 
 **Reach me out!**
 
-[![Mail Badge](https://img.shields.io/badge/-UdayAIWorld-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Linkedin Badge](https://img.shields.io/badge/-Uday-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udaykumar368/)  [![Mail Badge](https://img.shields.io/badge/-udaykumar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:udayabdm368gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-UdayAIWorld-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCC2dgsmQElTt-8xMsxN5Clw) [![Linkedin Badge](https://img.shields.io/badge/-Uday-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udaykumar368/)  [![Mail Badge](https://img.shields.io/badge/-udaykumar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:udayabdm368gmail.com)
 
 <!-- TODO: Add last video link -->
 
