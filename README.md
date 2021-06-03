@@ -42,7 +42,7 @@ Edureka Platform.
 
 [<img align="left" alt="HTML5" width="70px" src="https://github.com/UDAY368/UDAY368/blob/main/images/computer%20vision.png" />][ComputerVision]
 
-[<img align="left" alt="JavaScript" width="70px" src="https://github.com/UDAY368/UDAY368/blob/main/images/nlp.png" />][NLP]
+[<img align="left" alt="JavaScript" width="60px" src="https://github.com/UDAY368/UDAY368/blob/main/images/nlp.png" />][NLP]
 
 [<img align="left" alt="Visual Studio Code" width="70px" src="https://github.com/UDAY368/UDAY368/blob/main/images/Data%20analytics.png" />][DataAnalytics]
 
