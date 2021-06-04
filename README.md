@@ -51,7 +51,6 @@ Edureka Platform.
 <br />
 <br />
 <br />
-<br />
 
 ### Profile Visits 
 
