@@ -65,9 +65,9 @@ Edureka Platform.
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=UDAY368&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 
-[MachineLearing]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[ComputerVision]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[NLP]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[DataAnalytics]: https://www.youtube.com/watch?v=D-LHKvmX37E
-[DataScience]: https://www.youtube.com/watch?v=D-LHKvmX37E
-[AWS]: https://www.youtube.com/watch?v=D-LHKvmX37E
+[MachineLearing]: https://www.youtube.com/playlist?list=PLdzNVRb9ry4jo_JokuNFhJmQrNweZirQ-
+[ComputerVision]: https://www.youtube.com/playlist?list=PLdzNVRb9ry4h4bRkgsKXSY4SwK0EVNpeP
+[NLP]: https://www.youtube.com/playlist?list=PLdzNVRb9ry4jdqBYVZZaTNWRuuPzpuvMs
+[DataAnalytics]: https://www.youtube.com/playlist?list=PLdzNVRb9ry4jiYbW1tqoJ8aGBdl1u7Rd9
+[DataScience]: https://www.youtube.com/playlist?list=PLdzNVRb9ry4iNDJTVGiepPcnHaffoEcm5
+[AWS]: https://www.youtube.com/playlist?list=PLdzNVRb9ry4j3HVcttbB61WEhVpSUSHdA
