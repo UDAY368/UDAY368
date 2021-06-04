@@ -36,7 +36,7 @@ Edureka Platform.
          [![Nodejs Badge](https://img.shields.io/badge/-Jupyter-fba861?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=fba861)](#)
 
 ### Tutorials Made by Me
-[<img align="left" alt="Visual Studio Code" width="70px" src="https://github.com/UDAY368/UDAY368/blob/main/images/data%20science.png" />][DataScience]
+[<img align="left" alt="Visual Studio Code" width="90px" src="https://github.com/UDAY368/UDAY368/blob/main/images/data%20science.png" />][DataScience]
 
 [<img align="left" alt="React" width="70px" src="https://github.com/UDAY368/UDAY368/blob/main/images/machine%20learning.png" />][MachineLearing]
 
