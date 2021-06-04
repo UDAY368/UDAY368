@@ -1,11 +1,11 @@
 ## Hey there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Uday Kumar a Data Scientist and Data analyst. My passion for to do the lots of experiments with data,
-get the useful insights from them, by using this try to build, train and implement 
-Machine Learning, Computer Vision and Natural Language Process models with deployment. 
+I'm Uday Kumar, a Data Scientist and Data analyst. My passion for doing the lots of experiments with data,
+get the useful insights from them, by using this try to build, train and implement
+Machine Learning, Computer Vision and Natural Language Process models with deployment.
 
-I am open to learn the new technologies as quick as possible, and more actively on fallow the ongoing research
-in the field of Artificial Intelligence and collect the useful insights to create real time applications.
+I am open to learn the new technologies as quick as possible, and more actively on following the ongoing research
+in Artificial Intelligence and collect the useful insights to create real time applications.
 
 **Reach me out!**
 
