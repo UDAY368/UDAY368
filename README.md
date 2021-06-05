@@ -18,7 +18,7 @@ Edureka Platform.
 - 🤔 I’m looking for roles as a Data Scientist, Data Analyst, ML Engineer,Computer Vision Engineer and ready to join immediately.
 - 📫 Openly collabarate with any Data Science and ML,CV,NLP projects
 - 📢 Gmail: udayabdm368@gmail.com
-- 😄 [My Resume](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- 😄 [My Resume](https://github.com/UDAY368/UDAY368/blob/main/images/UDAY%20FINAL%20RESUME.pdf)
 
 ### Top Technologies
 
