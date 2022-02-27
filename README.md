@@ -1,6 +1,6 @@
 ## Hey there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Uday Kumar, a Data Scientist and Data analyst. My passion for doing the lots of experiments with data,
+I'm Uday Kumar, I am a Full Stack Web Developer. My passion for doing the lots of experiments with data,
 get the useful insights from them, by using this try to build, train and implement
 Machine Learning, Computer Vision and Natural Language Process models with deployment.
 
