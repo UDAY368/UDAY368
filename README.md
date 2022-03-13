@@ -8,18 +8,18 @@ I want to build products which are unique, technically sound, give the ultimate 
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m  currently doing Post Graduate in **Artificial Intelligence and Machine Learning** at NIT Warangal offered by
+<!-- - 🔭 I’m  currently doing Post Graduate in **Artificial Intelligence and Machine Learning** at NIT Warangal offered by
 Edureka Platform. 
 - 🤔 I’m looking for roles as a Data Scientist, Data Analyst, ML Engineer,Computer Vision Engineer and ready to join immediately.
 - 📫 Openly collabarate with any Data Science and ML,CV,NLP projects
 - 📢 Gmail: udayabdm368@gmail.com
-- 😄 [My Resume](https://github.com/UDAY368/UDAY368/blob/main/images/UDAY%20FINAL%20RESUME.pdf)
+- 😄 [My Resume](https://github.com/UDAY368/UDAY368/blob/main/images/UDAY%20FINAL%20RESUME.pdf) -->
 
 ### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#)    [![Javascript Badge](https://img.shields.io/badge/-Mysql-F0DB4F?style=for-the-badge&labelColor=black&logo=mysql&logoColor=F0DB4F)](#) 
+<!-- [![React Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#)    [![Javascript Badge](https://img.shields.io/badge/-Mysql-F0DB4F?style=for-the-badge&labelColor=black&logo=mysql&logoColor=F0DB4F)](#) 
         [![Typescript Badge](https://img.shields.io/badge/-Tableau-007acc?style=for-the-badge&labelColor=black&logo=tableau&logoColor=007acc)](#) 
          [![GraphQL Badge](https://img.shields.io/badge/-flask-e535ab?style=for-the-badge&labelColor=black&logo=flask&logoColor=e535ab)](#) 
          [![Nodejs Badge](https://img.shields.io/badge/-Tensorflow-61fba8?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=61fba8)](#) 
@@ -64,4 +64,4 @@ Edureka Platform.
 [NLP]: https://www.youtube.com/playlist?list=PLdzNVRb9ry4jdqBYVZZaTNWRuuPzpuvMs
 [DataAnalytics]: https://www.youtube.com/playlist?list=PLdzNVRb9ry4jiYbW1tqoJ8aGBdl1u7Rd9
 [DataScience]: https://www.youtube.com/playlist?list=PLdzNVRb9ry4iNDJTVGiepPcnHaffoEcm5
-[AWS]: https://www.youtube.com/playlist?list=PLdzNVRb9ry4j3HVcttbB61WEhVpSUSHdA
+[AWS]: https://www.youtube.com/playlist?list=PLdzNVRb9ry4j3HVcttbB61WEhVpSUSHdA -->
