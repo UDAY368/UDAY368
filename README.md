@@ -15,7 +15,7 @@ Edureka Platform.
 - 📢 Gmail: udayabdm368@gmail.com
 - 😄 [My Resume](https://github.com/UDAY368/UDAY368/blob/main/images/UDAY%20FINAL%20RESUME.pdf) -->
 
-### Top Technologies
+<!-- ### Top Technologies -->
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
